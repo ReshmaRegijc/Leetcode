@@ -3,3 +3,4 @@ def strStr(self, haystack: str, needle: str) -> int:
         return 0
     x = haystack.find(needle)
     return x
+print(strStr("hello","ll")==2)
