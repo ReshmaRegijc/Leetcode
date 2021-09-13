@@ -1,5 +1,5 @@
-from Length_of_Last_Word import lengthOfLastWord
-from Implement_strStr import strStr
+from src.Length_of_Last_Word import lengthOfLastWord
+from src.Implement_strStr import strStr
 
 def lengthOfLastWord():
     assert lengthOfLastWord('Hi, Welcome to Leetcode')==8
